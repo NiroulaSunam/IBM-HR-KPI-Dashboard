@@ -27,4 +27,5 @@ The analysis revealed several high-risk areas:
 A **Job Architecture Review** is recommended, focusing specifically on **entry-level salary benchmarking** and establishing **clear promotion pipelines** for high-risk roles (Sales/Lab Tech) to reduce 'stagnation' turnover.
 
 
-[image.png]
+![Attrition Dashboard](image.png)
+
